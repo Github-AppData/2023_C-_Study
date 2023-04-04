@@ -1,0 +1,16 @@
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.exe
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.deps.json
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.runtimeconfig.json
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.runtimeconfig.dev.json
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.dll
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\ref\project2.dll
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\bin\Debug\net5.0\project2.pdb
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.AssemblyInfo.cs
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.dll
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\ref\project2.dll
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.pdb
+C:\Users\YUHAN\Documents\GitHub\2023_C-_Study\5th\sln_5\project2\obj\Debug\net5.0\project2.genruntimeconfig.cache
