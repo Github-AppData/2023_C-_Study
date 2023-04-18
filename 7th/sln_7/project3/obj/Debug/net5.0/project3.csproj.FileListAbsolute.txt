@@ -1,0 +1,16 @@
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.exe
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.deps.json
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.runtimeconfig.json
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.runtimeconfig.dev.json
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\ref\project3.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\bin\Debug\net5.0\project3.pdb
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.AssemblyInfo.cs
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\ref\project3.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.pdb
+C:\Users\YUHAN\Documents\2023_C-_Study\7th\sln_7\project3\obj\Debug\net5.0\project3.genruntimeconfig.cache
