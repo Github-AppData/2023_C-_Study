@@ -1,0 +1,15 @@
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.exe
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.deps.json
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.json
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\YUHAN\Documents\2023_C-_Study\13th\sln_13\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.genruntimeconfig.cache
