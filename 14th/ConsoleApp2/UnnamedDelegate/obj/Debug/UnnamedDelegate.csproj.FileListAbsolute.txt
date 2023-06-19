@@ -1,0 +1,6 @@
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\bin\Debug\UnnamedDelegate.exe.config
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\bin\Debug\UnnamedDelegate.exe
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\bin\Debug\UnnamedDelegate.pdb
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\obj\Debug\UnnamedDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\obj\Debug\UnnamedDelegate.exe
+C:\Users\ktu20\OneDrive\문서\GitHub\2023_C-_Study\14th\ConsoleApp2\UnnamedDelegate\obj\Debug\UnnamedDelegate.pdb
